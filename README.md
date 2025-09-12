@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**juanxodf/juanxodf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently pursuing **2º DAW (Web Application Development)**.
+Previously, I completed **1º DAM (Multiplatform Application Development)** and a **Technological Baccalaureate**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Passionate about technology and software development.
+* I enjoy learning new tools, frameworks, and programming languages.
+* Always looking to improve my skills and build useful projects.
+
+## 🛠️ Technologies I work with
+
+* **Programming:** Python, Kotlin, JavaScript, PHP
+* **Web Development:** HTML, CSS, Laravel
+* Always exploring new technologies to expand my knowledge.
