@@ -63,4 +63,4 @@ Previously, I completed **1st year of DAM (Multiplatform Application Development
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
