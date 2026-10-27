@@ -1,4 +1,4 @@
-## 👋 Hi there! My name is Juan Caravantes and I'm a Web Application Development student from Spain
+##  👋🏻 Hi there! My name is Juan Caravantes and I'm a Web Application Development student from Spain
 
 I'm currently a student pursuing **2nd year of DAW (Web Application Development)**.
 Previously, I completed **1st year of DAM (Multiplatform Application Development)** and a **Technological Baccalaureate**.
